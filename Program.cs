@@ -2,12 +2,13 @@
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 
+/*
 Console.Clear();
 System.Console.WriteLine();
 System.Console.WriteLine("*Задача № 25. Возведение в степень*");
 System.Console.WriteLine();
-int A = NumberA("Ведите число А: ", "Ошибка ввода"); 
-int B = NumberB("Ведите число B: ", "Ошибка ввода"); 
+int A = NumberA("Введите число А: ", "Ошибка ввода"); 
+int B = NumberB("Введите число B: ", "Ошибка ввода"); 
 int result = GetResult(A, B);
 System.Console.WriteLine();
 System.Console.WriteLine($"Ответ: {result}");
@@ -48,11 +49,47 @@ int GetResult(int a, int b)
     }
     return result;
 }
+*/
 
 // Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
 // 452 -> 11
 // 82 -> 10
 // 9012 -> 12
+
+Console.Clear();
+System.Console.WriteLine();
+System.Console.WriteLine("*Задача № 27. Сумма цифр в числе*");
+System.Console.WriteLine();
+int number = GetNumber("Введите число: ", "Ошибка ввода"); 
+int result = SumDigit(number); 
+System.Console.WriteLine();
+System.Console.WriteLine($"Ответ: {result}");
+System.Console.WriteLine();
+
+int GetNumber(string message, string errorMessage)
+{
+    while (true)
+    {
+        Console.Write(message);
+        bool CorrectNumber = int.TryParse(Console.ReadLine(), out int userNumber);
+        if (CorrectNumber)
+            return userNumber;
+        Console.WriteLine(errorMessage);
+    }
+}
+
+int SumDigit(int number)
+{ 
+    int result = 0;
+    int Number = Math.Abs(number);
+    while(Number > 0)
+    {
+        result += Number % 10;
+        Number = Number / 10;
+    }
+    return result;
+}
+
 
 // Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
 // 1, 2, 5, 7, 19, -5, 0, -11 -> [1, 2, 5, 7, 19, -5, 0, -11]
