@@ -134,11 +134,11 @@ void Fill(int[] elements)
 string Print(int[] collection)
 {
     string output = String.Empty;
-    for (int i = 0; i < collection.Length; i++)
+    for (int i = 1; i < collection.Length; i++)
     {
         int current = collection[i];
         output = output + $"{current}, ";
-        if (i == collection.Length)
+        if (i == collection.Length-1)
             output = output + $"{current} ";
     }
     return $"{output} -> [{output}]";
