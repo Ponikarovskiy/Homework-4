@@ -1,0 +1,15 @@
+C:\Users\Ponikarovskiy\YandexDisk\_Дом\7. Образование\IT - разработка\_GeekBrains\3 ОБУЧЕНИЕ\4 Знакомство с языками программирования\Homework\DZ-4\obj\Debug\net7.0\DZ-4.csproj.AssemblyReference.cache
+C:\Users\Ponikarovskiy\YandexDisk\_Дом\7. Образование\IT - разработка\_GeekBrains\3 ОБУЧЕНИЕ\4 Знакомство с языками программирования\Homework\DZ-4\obj\Debug\net7.0\DZ-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ponikarovskiy\YandexDisk\_Дом\7. Образование\IT - разработка\_GeekBrains\3 ОБУЧЕНИЕ\4 Знакомство с языками программирования\Homework\DZ-4\obj\Debug\net7.0\DZ-4.AssemblyInfoInputs.cache
+C:\Users\Ponikarovskiy\YandexDisk\_Дом\7. Образование\IT - разработка\_GeekBrains\3 ОБУЧЕНИЕ\4 Знакомство с языками программирования\Homework\DZ-4\obj\Debug\net7.0\DZ-4.AssemblyInfo.cs
+C:\Users\Ponikarovskiy\YandexDisk\_Дом\7. Образование\IT - разработка\_GeekBrains\3 ОБУЧЕНИЕ\4 Знакомство с языками программирования\Homework\DZ-4\obj\Debug\net7.0\DZ-4.csproj.CoreCompileInputs.cache
+C:\Users\Ponikarovskiy\YandexDisk\_Дом\7. Образование\IT - разработка\_GeekBrains\3 ОБУЧЕНИЕ\4 Знакомство с языками программирования\Homework\DZ-4\bin\Debug\net7.0\DZ-4.exe
+C:\Users\Ponikarovskiy\YandexDisk\_Дом\7. Образование\IT - разработка\_GeekBrains\3 ОБУЧЕНИЕ\4 Знакомство с языками программирования\Homework\DZ-4\bin\Debug\net7.0\DZ-4.deps.json
+C:\Users\Ponikarovskiy\YandexDisk\_Дом\7. Образование\IT - разработка\_GeekBrains\3 ОБУЧЕНИЕ\4 Знакомство с языками программирования\Homework\DZ-4\bin\Debug\net7.0\DZ-4.runtimeconfig.json
+C:\Users\Ponikarovskiy\YandexDisk\_Дом\7. Образование\IT - разработка\_GeekBrains\3 ОБУЧЕНИЕ\4 Знакомство с языками программирования\Homework\DZ-4\bin\Debug\net7.0\DZ-4.dll
+C:\Users\Ponikarovskiy\YandexDisk\_Дом\7. Образование\IT - разработка\_GeekBrains\3 ОБУЧЕНИЕ\4 Знакомство с языками программирования\Homework\DZ-4\bin\Debug\net7.0\DZ-4.pdb
+C:\Users\Ponikarovskiy\YandexDisk\_Дом\7. Образование\IT - разработка\_GeekBrains\3 ОБУЧЕНИЕ\4 Знакомство с языками программирования\Homework\DZ-4\obj\Debug\net7.0\DZ-4.dll
+C:\Users\Ponikarovskiy\YandexDisk\_Дом\7. Образование\IT - разработка\_GeekBrains\3 ОБУЧЕНИЕ\4 Знакомство с языками программирования\Homework\DZ-4\obj\Debug\net7.0\refint\DZ-4.dll
+C:\Users\Ponikarovskiy\YandexDisk\_Дом\7. Образование\IT - разработка\_GeekBrains\3 ОБУЧЕНИЕ\4 Знакомство с языками программирования\Homework\DZ-4\obj\Debug\net7.0\DZ-4.pdb
+C:\Users\Ponikarovskiy\YandexDisk\_Дом\7. Образование\IT - разработка\_GeekBrains\3 ОБУЧЕНИЕ\4 Знакомство с языками программирования\Homework\DZ-4\obj\Debug\net7.0\DZ-4.genruntimeconfig.cache
+C:\Users\Ponikarovskiy\YandexDisk\_Дом\7. Образование\IT - разработка\_GeekBrains\3 ОБУЧЕНИЕ\4 Знакомство с языками программирования\Homework\DZ-4\obj\Debug\net7.0\ref\DZ-4.dll
